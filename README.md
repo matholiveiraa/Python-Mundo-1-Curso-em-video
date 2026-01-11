@@ -6,7 +6,7 @@ Os códigos cobrem os fundamentos básicos da linguagem, com foco em lógica, si
 
 # Conteúdo estudado 🧠
 
-Durante o Mundo 1, foram trabalhados:
+- Durante o Mundo 1, foram trabalhados:
 
 Ambiente e instalação
 
