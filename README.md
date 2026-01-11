@@ -1,10 +1,10 @@
 # Python-Mundo-1-Curso-em-video
-# Sobre este repositório
+# Sobre este repositório 📌
 
 Repositório contendo os exercícios do Mundo 1 de Python do Curso em Vídeo.
 Os códigos cobrem os fundamentos básicos da linguagem, com foco em lógica, sintaxe e primeiras interações com o Python.
 
-# Conteúdo estudado
+# Conteúdo estudado 🧠
 
 Durante o Mundo 1, foram trabalhados:
 
